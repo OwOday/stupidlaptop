@@ -1,0 +1,17 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6d71b488-5f47-407f-a461-1e94f3ede041")
+	(paper "A4")
+	(title_block
+		(title "MNT Reform 2 PCIe")
+		(date "2023-02-13")
+		(rev "2.5D-2")
+		(company "MNT Research GmbH")
+		(comment 1 "https://mntre.com")
+		(comment 2 "Engineer: Lukas F. Hartmann")
+		(comment 3 "License: CERN-OHL-S 2.0")
+	)
+	(lib_symbols)
+)

@@ -1,0 +1,17 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3423456e-b896-46c5-9dff-5c526887ce07")
+	(paper "A4")
+	(title_block
+		(title "Reform 2 Audio")
+		(date "2023-02-13")
+		(rev "2.5D-2")
+		(company "MNT Research GmbH")
+		(comment 1 "https://mntre.com")
+		(comment 2 "Engineer: Lukas F. Hartmann")
+		(comment 3 "License: CERN-OHL-S 2.0")
+	)
+	(lib_symbols)
+)
